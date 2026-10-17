@@ -31,8 +31,6 @@ Exploring data-driven solutions, building technical skills, and developing a fou
 
 I'm a Computer Science student at **East West University (EWU), Bangladesh**, majoring in Data Science.
 
-I'm interested in understanding how data, algorithms, and intelligent systems can solve practical problems. My current focus is strengthening my programming fundamentals, developing machine learning skills, and learning how to approach AI research systematically.
-
 - 🎓 **Degree:** B.Sc. in Computer Science and Engineering
 - 🏛️ **University:** East West University, Bangladesh
 - 📊 **Major:** Data Science
@@ -108,24 +106,6 @@ I'm continuously developing my technical knowledge and practical skills.
 - [ ] Build Full-Stack Development projects.
 - [ ] Improve research paper reading and analysis.
 - [ ] Learn to design reproducible machine learning experiments.
-
----
-
-## 🚀 Projects
-
-I'm developing my technical skills and working toward building projects that demonstrate what I learn.
-
-This section will grow as I publish projects and make my work available on GitHub.
-
-<!--
-When you publish projects, use this format:
-
-### Project Name
-A short description of the problem and your solution.
-
-- Technologies: Python, ...
-- Repository: [View Project](YOUR_REPOSITORY_URL)
--->
 
 ---
 
