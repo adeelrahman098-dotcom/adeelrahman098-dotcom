@@ -143,22 +143,6 @@ when you have confirmed experience with them.
 
 <!-- ───────────────────────────── ROADMAP ───────────────────────────── -->
 
-## 🗺️ Learning Roadmap
-
-I'm continuously developing my technical knowledge and practical skills.
-
-- [ ] Strengthen Python programming and problem-solving
-- [ ] Improve understanding of Data Structures and Algorithms
-- [ ] Develop practical Machine Learning skills
-- [ ] Explore Deep Learning techniques
-- [ ] Build Full-Stack Development projects
-- [ ] Improve research paper reading and analysis
-- [ ] Learn to design reproducible machine learning experiments
-
-<br />
-
-<!-- ───────────────────────────── STATS ───────────────────────────── -->
-
 ## 📊 GitHub Statistics
 
 <div align="center">
