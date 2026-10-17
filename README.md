@@ -1,12 +1,12 @@
+
 <!--
 GitHub Profile README
 Repository: adeelrahman098-dotcom/adeelrahman098-dotcom
 
-CUSTOMIZATION NOTES:
-- Update your academic information and CGPA when needed.
+Customization notes:
+- Add project links as your portfolio grows.
 - Add professional links when available.
-- Update the GitHub statistics username if your username changes.
-- Add new sections as your portfolio grows.
+- Keep your technical skills updated as you gain experience.
 -->
 
 <div align="center">
@@ -17,28 +17,32 @@ CUSTOMIZATION NOTES:
 
 Exploring data-driven solutions, building technical skills, and developing a foundation for research in Artificial Intelligence and Machine Learning.
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Data Science](https://img.shields.io/badge/Data%20Science-0D9488?style=flat-square)](https://en.wikipedia.org/wiki/Data_science)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-2563EB?style=flat-square)](https://en.wikipedia.org/wiki/Machine_learning)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adeelrahman098-dotcom)
+<p>
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-2563EB?style=for-the-badge" alt="Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Interest-Machine%20Learning-7C3AED?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Field-Data%20Science-0891B2?style=for-the-badge" alt="Data Science" />
+</p>
 
 </div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 I'm a Computer Science student at **East West University (EWU), Bangladesh**, majoring in Data Science.
 
 I'm interested in understanding how data, algorithms, and intelligent systems can solve practical problems. My current focus is strengthening my programming fundamentals, developing machine learning skills, and learning how to approach AI research systematically.
 
-- **Education:** B.Sc. in Computer Science and Engineering
-- **Major:** Data Science
-- **University:** East West University, Bangladesh
-- **Interests:** Data Science, Machine Learning, Deep Learning, and applied AI research
-- **Current focus:** Programming fundamentals, machine learning workflows, and software development
+- 🎓 **Degree:** B.Sc. in Computer Science and Engineering
+- 🏛️ **University:** East West University, Bangladesh
+- 📊 **Major:** Data Science
+- 🤖 **Interests:** Data Science, Machine Learning, Deep Learning, and applied AI research
+- 💻 **Development:** Python and Full-Stack Development
+- 🔬 **Current focus:** Programming fundamentals, machine learning workflows, software development, and research paper analysis
 
-## Current Focus
+---
+
+## 🎯 Current Focus
 
 I'm working toward a stronger foundation in software development and research.
 
@@ -47,73 +51,120 @@ I'm working toward a stronger foundation in software development and research.
 - Learning Data Structures and Algorithms.
 - Developing web development skills for practical applications.
 - Understanding reliable experimental design and leakage-free machine learning evaluation.
+- Reading research papers and exploring potential thesis topics.
 
-## Research Interests
+---
+
+## 🔬 Research Interests
 
 My interests focus on developing and evaluating AI systems using reliable experimental methods and practical applications.
 
 - **Leakage-Free Machine Learning:** Identifying data leakage risks and designing evaluation pipelines that provide trustworthy performance estimates.
 - **Applied Artificial Intelligence:** Exploring machine learning approaches for real-world problems.
 - **Lightweight AI:** Investigating efficient AI approaches suitable for resource-constrained environments.
+- **Deep Learning:** Exploring deep learning concepts, architectures, and applications.
+- **Research Methodology:** Studying research papers, analyzing existing methods, and identifying potential research gaps.
 
-I'm interested in reading research papers, identifying methodological limitations, and learning how to turn research gaps into reproducible experiments.
+I'm interested in understanding how existing approaches work, identifying methodological limitations, and learning how to turn research gaps into reproducible experiments.
 
-<!-- Add a publications section when you have verified publications or preprints. -->
+<!-- Add verified publications, preprints, or research projects here when available. -->
 
-## Technical Skills
+---
+
+## 🛠️ Technical Skills
 
 ### Programming and Data Analysis
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-### Machine Learning
+### Machine Learning and Deep Learning
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-2563EB?style=for-the-badge" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-Exploring-7C3AED?style=for-the-badge" alt="Deep Learning" />
+</p>
 
-### Databases and Development Tools
+### Development
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
-<!--
-LEARNING ROADMAP:
-Move technologies into your skills list when you can demonstrate
-practical experience with them.
-
-Currently learning:
-- Machine Learning
-- Deep Learning
-- Data Structures and Algorithms
-- Web Development
--->
-
-## GitHub Statistics
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-Learning-0891B2?style=for-the-badge" alt="Full-Stack Development" />
+</p>
 
 <!--
-These images use external services and may occasionally be unavailable.
-Remove any image that fails to load; the rest of the README will still work.
+Add specific libraries, frameworks, databases, and tools
+when you have confirmed experience with them.
 -->
+
+---
+
+## 📚 Learning Roadmap
+
+I'm continuously developing my technical knowledge and practical skills.
+
+- [ ] Strengthen Python programming and problem-solving.
+- [ ] Improve understanding of Data Structures and Algorithms.
+- [ ] Develop practical Machine Learning skills.
+- [ ] Explore Deep Learning techniques.
+- [ ] Build Full-Stack Development projects.
+- [ ] Improve research paper reading and analysis.
+- [ ] Learn to design reproducible machine learning experiments.
+
+---
+
+## 🚀 Projects
+
+I'm developing my technical skills and working toward building projects that demonstrate what I learn.
+
+This section will grow as I publish projects and make my work available on GitHub.
+
+<!--
+When you publish projects, use this format:
+
+### Project Name
+A short description of the problem and your solution.
+
+- Technologies: Python, ...
+- Repository: [View Project](YOUR_REPOSITORY_URL)
+-->
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=adeelrahman098-dotcom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="GitHub statistics for Adeel Rahman" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=adeelrahman098-dotcom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"
+  alt="GitHub statistics for Adeel Rahman"
+  height="165"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelrahman098-dotcom&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most-used languages on GitHub" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelrahman098-dotcom&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+  alt="Most-used programming languages"
+  height="165"
+/>
 
-<img src="https://streak-stats.demolab.com?user=adeelrahman098-dotcom&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+<img
+  src="https://streak-stats.demolab.com?user=adeelrahman098-dotcom&theme=github-dark-blue&hide_border=true"
+  alt="GitHub contribution streak"
+/>
 
 </div>
 
-## Academic Achievements
+---
+
+## 🏆 Academic Achievements
 
 - **Dean Scholarship:** Awarded for one year, covering Fall 2024, Spring 2025, and Summer 2025.
 - **100% Merit Scholarship:** Awarded for one year, covering Fall 2025, Spring 2026, and Summer 2026.
-- **CGPA:** 3.80.
+- **CGPA:** 3.80
 
-## Collaboration
+---
+
+## 🤝 Collaboration
 
 I'm interested in collaborating on:
 
@@ -124,25 +175,32 @@ I'm interested in collaborating on:
 
 I'm especially interested in collaborative work where experimentation, clear documentation, and continuous improvement matter.
 
-## Connect With Me
+---
 
-<!-- Add your actual professional links when available.
+## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+<div align="center">
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](YOUR_GOOGLE_SCHOLAR_URL)
+<a href="mailto:adeelrahman098@gmail.com">
+  <img src="https://img.shields.io/badge/Email-adeelrahman098%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Adeel Rahman" />
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=githubpages&logoColor=white)](YOUR_PORTFOLIO_URL)
+<a href="https://github.com/adeelrahman098-dotcom">
+  <img src="https://img.shields.io/badge/GitHub-adeelrahman098--dotcom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
 
-Add a public email link only if you want to share your email address.
--->
+<p>
+  Feel free to reach out for discussions about AI, Machine Learning, Data Science, research, and collaboration.
+</p>
 
-**GitHub:** [adeelrahman098-dotcom](https://github.com/adeelrahman098-dotcom)
+</div>
 
 ---
 
 <div align="center">
 
 *Learning continuously. Building thoughtfully. Researching responsibly.*
+
+⭐ Thanks for visiting my profile!
 
 </div>
