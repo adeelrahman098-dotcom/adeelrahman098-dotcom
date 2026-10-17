@@ -1,4 +1,4 @@
- <!--
+<!--
 GitHub Profile README
 Repository: adeelrahman098-dotcom/adeelrahman098-dotcom
 
@@ -37,7 +37,6 @@ I'm interested in understanding how data, algorithms, and intelligent systems ca
 - **University:** East West University, Bangladesh
 - **Interests:** Data Science, Machine Learning, Deep Learning, and applied AI research
 - **Current focus:** Programming fundamentals, machine learning workflows, and software development
-- **Long-term goal:** Pursue a Master's degree at a strong European university and develop research expertise in AI/ML.
 
 ## Current Focus
 
@@ -124,12 +123,6 @@ I'm interested in collaborating on:
 - Open-source software and projects that help me grow as a developer and researcher.
 
 I'm especially interested in collaborative work where experimentation, clear documentation, and continuous improvement matter.
-
-## Future Goals
-
-My long-term goal is to pursue a Master's degree at a strong European university and build deeper expertise in AI/ML research.
-
-I'm working toward that goal by strengthening my technical foundations, developing my skills, studying research papers, and learning to evaluate machine learning systems responsibly.
 
 ## Connect With Me
 
