@@ -46,9 +46,7 @@ I'm interested in understanding how data, algorithms, and intelligent systems ca
 
 I'm working toward a stronger foundation in software development and research.
 
-- Improving Python programming and problem-solving skills.
 - Studying Machine Learning and exploring Deep Learning.
-- Learning Data Structures and Algorithms.
 - Developing web development skills for practical applications.
 - Understanding reliable experimental design and leakage-free machine learning evaluation.
 - Reading research papers and exploring potential thesis topics.
