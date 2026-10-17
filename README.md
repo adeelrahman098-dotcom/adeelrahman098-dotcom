@@ -67,26 +67,72 @@ I'm interested in understanding how existing approaches work, identifying method
 
 ---
 
+
 ## 🛠️ Technical Skills
 
-### Programming and Data Analysis
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+### ⚙️ Backend Development
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
-### Machine Learning and Deep Learning
+### 🤖 AI, Machine Learning & Data Science
 
 <p>
+  <img src="https://img.shields.io/badge/Data%20Science-Exploring-0891B2?style=for-the-badge" alt="Data Science" />
   <img src="https://img.shields.io/badge/Machine%20Learning-Exploring-2563EB?style=for-the-badge" alt="Machine Learning" />
   <img src="https://img.shields.io/badge/Deep%20Learning-Exploring-7C3AED?style=for-the-badge" alt="Deep Learning" />
 </p>
 
-### Development
+- Data preprocessing and exploratory data analysis
+- Machine learning model development and evaluation
+- Deep learning concepts and applications
+- Research paper analysis and research methodology
+- Leakage-free model evaluation and experimental design
+
+### 🗄️ Databases
 
 <p>
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-Learning-0891B2?style=for-the-badge" alt="Full-Stack Development" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
+
+- Relational database concepts
+- SQL queries and data retrieval
+- Database design fundamentals
+
+### 🔧 Tools & Development Practices
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+- Version control and repository management
+- Code documentation and project organization
+- Research-driven problem-solving
+- Reproducible experiments and systematic evaluation
+
+
 
 <!--
 Add specific libraries, frameworks, databases, and tools
