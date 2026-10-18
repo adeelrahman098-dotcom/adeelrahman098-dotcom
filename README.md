@@ -145,18 +145,56 @@ when you have confirmed experience with them.
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adeelrahman098-dotcom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="GitHub statistics for Adeel Rahman" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelrahman098-dotcom&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most-used programming languages" height="165" />
-</div>
+<!-- ───────────────────────────── STATISTICS ───────────────────────────── -->
 
-<br />
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=adeelrahman098-dotcom&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</div>
+  <style>
+    @keyframes snake-border {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+    .snake-card {
+      display: inline-block;
+      padding: 3px;
+      margin: 10px;
+      border-radius: 12px;
+      background: linear-gradient(90deg, #58A6FF, #7C3AED, #0891B2, #58A6FF);
+      background-size: 300% 300%;
+      animation: snake-border 6s ease infinite;
+    }
+    .snake-card-inner {
+      background-color: #0D1117;
+      border-radius: 10px;
+      padding: 6px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+  </style>
 
-<br />
+  <div class="snake-card">
+    <div class="snake-card-inner">
+      <img src="https://github-readme-stats.vercel.app/api?username=adeelrahman098-dotcom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="GitHub statistics for Adeel Rahman" height="165" />
+    </div>
+  </div>
+
+  <div class="snake-card">
+    <div class="snake-card-inner">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelrahman098-dotcom&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most-used programming languages" height="165" />
+    </div>
+  </div>
+
+  <br/>
+
+  <div class="snake-card">
+    <div class="snake-card-inner">
+      <img src="https://streak-stats.demolab.com?user=adeelrahman098-dotcom&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+    </div>
+  </div>
+</div>
 
 <!-- ───────────────────────────── ACHIEVEMENTS ───────────────────────────── -->
 
