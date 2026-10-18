@@ -1,44 +1,27 @@
 <!-- ═══════════════════════════════════════════════════════════════
-     GitHub Profile README · Adeel Rahman
-     Repository: adeelrahman098-dotcom/adeelrahman098-dotcom
-     ═══════════════════════════════════════════════════════════════ -->
+     GitHub Profile README · Adeel Rahman
+     Repository: adeelrahman098-dotcom/adeelrahman098-dotcom
+     ═══════════════════════════════════════════════════════════════ -->
 
 <!-- ───────────────────────────── HEADER ───────────────────────────── -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:1E293B,100:FACC15&height=200&section=header&text=Adeel%20Rahman&fontSize=52&fontColor=FACC15&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Data%20Science%20%7C%20AI%20%26%20ML%20Research&descSize=17&descAlignY=60&animation=fadeIn" alt="Adeel Rahman — Computer Science Student, Data Science, AI & ML Research" width="100%" />
-
-<!-- ─────────────── WINDOW · BATMAN · LAPTOP SCENE ─────────────── -->
-<pre align="left">
-   ╔════════════════════════════════════════╗
-   ║  *   .    ( 🦇 )       *        .      ║       .__________________________.
-   ║    .       \  /   *          .     *   ║       | 🟢 🟡 🔴  batcomputer~zsh |
-   ║        /\   \/      /|                 ║       |--------------------------|
-   ║  *    /  \  ||     / |\    .     |\    ║       | $ whoami                 |
-   ║════════════════════╬═══════════════════║       | > adeel_rahman           |
-   ║     |  ::  | ||  | | :|   ___    | \   ║       | $ ./status.sh            |
-   ║  |\ |  ::  | || _| | :|  |:::|   |  |  ║       | [✓] EWU Data Science     |
-   ║ /  \|  ::  |_|||_  | :|  |:::|   |::|  ║       | [✓] AI & ML Research     |
-   ║/ (• •) ::::::::::| | :|__|:::|___|::|  ║       | $ █                      |
-   ║ /   \ :::::::::::|_|________________|  ║       '--------------------------'
-   ╚════════════════════════════════════════╝      /  [======================]  \
-       [ GOTHAM WINDOW // BATMAN WATCH ]          /_________[__________]_________\
-</pre>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0891B2&height=200&section=header&text=Adeel%20Rahman&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Data%20Science%20%7C%20AI%20%26%20ML%20Research&descSize=17&descAlignY=60&animation=fadeIn" alt="Adeel Rahman — Computer Science Student, Data Science, AI & ML Research" width="100%" />
 
 <p>
-  <em>Exploring data-driven solutions, building technical skills, and developing a foundation for research in Artificial Intelligence and Machine Learning.</em>
+  <em>Exploring data-driven solutions, building technical skills, and developing a foundation for research in Artificial Intelligence and Machine Learning.</em>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0D1117?style=for-the-badge&logo=ai&borderColor=FACC15&labelColor=1E293B&color=FACC15" alt="Focus: Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Interest-Machine%20Learning-0D1117?style=for-the-badge&labelColor=1E293B&color=38BDF8" alt="Interest: Machine Learning" />
-  <img src="https://img.shields.io/badge/Field-Data%20Science-0D1117?style=for-the-badge&labelColor=1E293B&color=FACC15" alt="Field: Data Science" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-2563EB?style=for-the-badge" alt="Focus: Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Interest-Machine%20Learning-7C3AED?style=for-the-badge" alt="Interest: Machine Learning" />
+  <img src="https://img.shields.io/badge/Field-Data%20Science-0891B2?style=for-the-badge" alt="Field: Data Science" />
 </p>
 
 <p>
-  <a href="mailto:adeelrahman098@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/adeelrahman098-dotcom"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:adeelrahman098@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/adeelrahman098-dotcom"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
@@ -52,30 +35,30 @@
 I'm a Computer Science student at **East West University (EWU), Bangladesh**, majoring in **Data Science**. I enjoy turning data into reliable insights and care about building machine learning systems that can be trusted, not just ones that score well.
 
 <table>
-  <tr>
-    <td><b>🎓 Degree</b></td>
-    <td>B.Sc. in Computer Science and Engineering</td>
-  </tr>
-  <tr>
-    <td><b>🏛️ University</b></td>
-    <td>East West University, Bangladesh</td>
-  </tr>
-  <tr>
-    <td><b>📊 Major</b></td>
-    <td>Data Science</td>
-  </tr>
-  <tr>
-    <td><b>🤖 Interests</b></td>
-    <td>Data Science · Machine Learning · Deep Learning · Applied AI Research</td>
-  </tr>
-  <tr>
-    <td><b>💻 Development</b></td>
-    <td>Python and Full-Stack Development</td>
-  </tr>
-  <tr>
-    <td><b>🔬 Current Focus</b></td>
-    <td>Programming fundamentals, ML workflows, software development, and research paper analysis</td>
-  </tr>
+  <tr>
+    <td><b>🎓 Degree</b></td>
+    <td>B.Sc. in Computer Science and Engineering</td>
+  </tr>
+  <tr>
+    <td><b>🏛️ University</b></td>
+    <td>East West University, Bangladesh</td>
+  </tr>
+  <tr>
+    <td><b>📊 Major</b></td>
+    <td>Data Science</td>
+  </tr>
+  <tr>
+    <td><b>🤖 Interests</b></td>
+    <td>Data Science · Machine Learning · Deep Learning · Applied AI Research</td>
+  </tr>
+  <tr>
+    <td><b>💻 Development</b></td>
+    <td>Python and Full-Stack Development</td>
+  </tr>
+  <tr>
+    <td><b>🔬 Current Focus</b></td>
+    <td>Programming fundamentals, ML workflows, software development, and research paper analysis</td>
+  </tr>
 </table>
 
 <br />
@@ -122,19 +105,19 @@ My work centers on developing and evaluating AI systems using reliable experimen
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&perline=7" alt="C, C++, Python, Java, JavaScript, HTML5, CSS3" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css&perline=7" alt="C, C++, Python, Java, JavaScript, HTML5, CSS3" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres&perline=7" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=postgres&perline=7" alt="SQL" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github&perline=7" alt="Git, GitHub" />
+  <img src="https://skillicons.dev/icons?i=git,github&perline=7" alt="Git, GitHub" />
 </p>
 
 </div>
@@ -165,21 +148,21 @@ when you have confirmed experience with them.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=adeelrahman098-dotcom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=C9D1D9&icon_color=FACC15"
-  alt="GitHub statistics for Adeel Rahman"
-  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=adeelrahman098-dotcom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"
+  alt="GitHub statistics for Adeel Rahman"
+  height="165"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelrahman098-dotcom&layout=compact&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=C9D1D9"
-  alt="Most-used programming languages"
-  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelrahman098-dotcom&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+  alt="Most-used programming languages"
+  height="165"
 />
 
 <br />
 
 <img
-  src="https://streak-stats.demolab.com?user=adeelrahman098-dotcom&theme=dark&background=0D1117&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&hide_border=true"
-  alt="GitHub contribution streak"
+  src="https://streak-stats.demolab.com?user=adeelrahman098-dotcom&theme=github-dark-blue&hide_border=true"
+  alt="GitHub contribution streak"
 />
 
 </div>
@@ -220,14 +203,14 @@ I'm especially drawn to collaborative work where **experimentation, clear docume
 <div align="center">
 
 <p>
-  Feel free to reach out for discussions about AI, Machine Learning, Data Science, research, and collaboration.
+  Feel free to reach out for discussions about AI, Machine Learning, Data Science, research, and collaboration.
 </p>
 
 <a href="mailto:adeelrahman098@gmail.com">
-  <img src="https://img.shields.io/badge/Email-adeelrahman098%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Adeel Rahman" />
+  <img src="https://img.shields.io/badge/Email-adeelrahman098%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Adeel Rahman" />
 </a>
 <a href="https://github.com/adeelrahman098-dotcom">
-  <img src="https://img.shields.io/badge/GitHub-adeelrahman098--dotcom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+  <img src="https://img.shields.io/badge/GitHub-adeelrahman098--dotcom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
 </a>
 
 </div>
@@ -242,6 +225,6 @@ I'm especially drawn to collaborative work where **experimentation, clear docume
 
 ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:1E293B,100:FACC15&height=100&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0891B2&height=100&section=footer" alt="" width="100%" />
 
 </div>
