@@ -7,16 +7,33 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0891B2&height=200&section=header&text=Adeel%20Rahman&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Data%20Science%20%7C%20AI%20%26%20ML%20Research&descSize=17&descAlignY=60&animation=fadeIn" alt="Adeel Rahman — Computer Science Student, Data Science, AI & ML Research" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:1E293B,100:FACC15&height=200&section=header&text=Adeel%20Rahman&fontSize=52&fontColor=FACC15&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Data%20Science%20%7C%20AI%20%26%20ML%20Research&descSize=17&descAlignY=60&animation=fadeIn" alt="Adeel Rahman — Computer Science Student, Data Science, AI & ML Research" width="100%" />
+
+<!-- ─────────────── WINDOW · BATMAN · LAPTOP SCENE ─────────────── -->
+<pre align="left">
+   ╔════════════════════════════════════════╗
+   ║  *   .    ( 🦇 )       *        .      ║       .__________________________.
+   ║    .       \  /   *          .     *   ║       | 🟢 🟡 🔴  batcomputer~zsh |
+   ║        /\   \/      /|                 ║       |--------------------------|
+   ║  *    /  \  ||     / |\    .     |\    ║       | $ whoami                 |
+   ║════════════════════╬═══════════════════║       | > adeel_rahman           |
+   ║     |  ::  | ||  | | :|   ___    | \   ║       | $ ./status.sh            |
+   ║  |\ |  ::  | || _| | :|  |:::|   |  |  ║       | [✓] EWU Data Science     |
+   ║ /  \|  ::  |_|||_  | :|  |:::|   |::|  ║       | [✓] AI & ML Research     |
+   ║/ (• •) ::::::::::| | :|__|:::|___|::|  ║       | $ █                      |
+   ║ /   \ :::::::::::|_|________________|  ║       '--------------------------'
+   ╚════════════════════════════════════════╝      /  [======================]  \
+       [ GOTHAM WINDOW // BATMAN WATCH ]          /_________[__________]_________\
+</pre>
 
 <p>
   <em>Exploring data-driven solutions, building technical skills, and developing a foundation for research in Artificial Intelligence and Machine Learning.</em>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-2563EB?style=for-the-badge" alt="Focus: Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/Interest-Machine%20Learning-7C3AED?style=for-the-badge" alt="Interest: Machine Learning" />
-  <img src="https://img.shields.io/badge/Field-Data%20Science-0891B2?style=for-the-badge" alt="Field: Data Science" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-0D1117?style=for-the-badge&logo=ai&borderColor=FACC15&labelColor=1E293B&color=FACC15" alt="Focus: Artificial Intelligence" />
+  <img src="https://img.shields.io/badge/Interest-Machine%20Learning-0D1117?style=for-the-badge&labelColor=1E293B&color=38BDF8" alt="Interest: Machine Learning" />
+  <img src="https://img.shields.io/badge/Field-Data%20Science-0D1117?style=for-the-badge&labelColor=1E293B&color=FACC15" alt="Field: Data Science" />
 </p>
 
 <p>
@@ -148,12 +165,12 @@ when you have confirmed experience with them.
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=adeelrahman098-dotcom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF"
+  src="https://github-readme-stats.vercel.app/api?username=adeelrahman098-dotcom&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=C9D1D9&icon_color=FACC15"
   alt="GitHub statistics for Adeel Rahman"
   height="165"
 />
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelrahman098-dotcom&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeelrahman098-dotcom&layout=compact&hide_border=true&bg_color=0D1117&title_color=FACC15&text_color=C9D1D9"
   alt="Most-used programming languages"
   height="165"
 />
@@ -161,7 +178,7 @@ when you have confirmed experience with them.
 <br />
 
 <img
-  src="https://streak-stats.demolab.com?user=adeelrahman098-dotcom&theme=github-dark-blue&hide_border=true"
+  src="https://streak-stats.demolab.com?user=adeelrahman098-dotcom&theme=dark&background=0D1117&ring=FACC15&fire=FACC15&currStreakLabel=FACC15&hide_border=true"
   alt="GitHub contribution streak"
 />
 
@@ -225,6 +242,6 @@ I'm especially drawn to collaborative work where **experimentation, clear docume
 
 ⭐ Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0891B2&height=100&section=footer" alt="" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:1E293B,100:FACC15&height=100&section=footer" alt="" width="100%" />
 
 </div>
