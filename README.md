@@ -166,7 +166,7 @@ when you have confirmed experience with them.
 | :--- | :--- |
 | 🥇 **Dean Scholarship** | Awarded for one year — Fall 2024, Spring 2025, Summer 2025 |
 | 🎖️ **100% Merit Scholarship** | Awarded for one year — Fall 2025, Spring 2026, Summer 2026 |
-| 📈 **CGPA** | 3.80 |
+
 
 <br />
 
