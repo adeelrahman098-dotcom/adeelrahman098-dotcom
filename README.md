@@ -22,32 +22,41 @@
 
 <br />
 
-<!-- ────────────────────── SPLIT HERO: ABOUT + 3D PC ────────────────────── -->
+<!-- ───────────────────────────── ABOUT ───────────────────────────── -->
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student at **East West University (EWU), Bangladesh**, majoring in **Data Science**. I enjoy turning data into reliable insights and care about building machine learning systems that can be trusted, not just ones that score well.
 
 <table>
   <tr>
-    <td width="58%" valign="middle">
-      <h2>👨‍💻 About Me</h2>
-      <p>
-        I am a <b>Computer Science & Engineering</b> undergraduate majoring in <b>Data Science</b> at <b>East West University, Bangladesh</b>. My work focuses on designing reproducible, leakage-free machine learning workflows, empirical benchmarking, and practical AI applications.
-      </p>
-      <ul>
-        <li>🎓 <b>Degree:</b> B.Sc. in CSE (Major in Data Science)</li>
-        <li>🔬 <b>Research Focus:</b> Leakage-Aware ML Pipelines, Ensemble Learning, Computer Vision & Lightweight AI</li>
-        <li>💻 <b>Engineering:</b> Python ML Ecosystems, Deep Learning & Full-Stack Web Applications</li>
-      </ul>
-      <p>
-        <i>"Turning methodological gaps into trustworthy, reproducible machine learning systems."</i>
-      </p>
-    </td>
-    <td width="42%" align="center" valign="middle">
-      <!-- 3D Isometric PC Setup Illustration -->
-      <img src="./assets/pc-setup.svg" alt="3D Isometric PC Setup" width="100%" />
-    </td>
+    <td><b>🎓 Degree</b></td>
+    <td>B.Sc. in Computer Science and Engineering</td>
+  </tr>
+  <tr>
+    <td><b>🏛️ University</b></td>
+    <td>East West University, Bangladesh</td>
+  </tr>
+  <tr>
+    <td><b>📊 Major</b></td>
+    <td>Data Science</td>
+  </tr>
+  <tr>
+    <td><b>🤖 Interests</b></td>
+    <td>Data Science · Machine Learning · Deep Learning · Applied AI Research</td>
+  </tr>
+  <tr>
+    <td><b>💻 Development</b></td>
+    <td>Python and Full-Stack Development</td>
+  </tr>
+  <tr>
+    <td><b>🔬 Current Focus</b></td>
+    <td>Programming fundamentals, ML workflows, software development, and research paper analysis</td>
   </tr>
 </table>
 
 <br />
+
 
 <!-- ───────────────────────────── RESEARCH ───────────────────────────── -->
 
