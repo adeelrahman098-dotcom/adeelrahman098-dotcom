@@ -123,7 +123,37 @@ I'm especially drawn to collaborative work where **experimentation, clear docume
 
 <br />
 
-*Learning continuously · Building thoughtfully · Researching responsibly*
+<!-- ───────────────────────────── CONTACT ───────────────────────────── -->
+
+## 📬 Connect With Me
+
+<div align="center">
+
+<p>
+  Feel free to reach out for discussions about AI, Machine Learning, Data Science, research, and collaboration.
+</p>
+
+<p>
+  <a href="mailto:adeelrahman098@gmail.com"><img src="https://img.shields.io/badge/Email-adeelrahman098%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Adeel Rahman" /></a>
+  <a href="https://github.com/adeelrahman098-dotcom"><img src="https://img.shields.io/badge/GitHub-adeelrahman098--dotcom-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+</p>
+
+</div>
+
+<!-- ───────────────────────────── FOOTER ───────────────────────────── -->
+
+<div align="center">
+
+<br />
+
+*Learning continuously. Building thoughtfully. Researching responsibly.*
+
+⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:7C3AED,100:0891B2&height=100&section=footer" alt="" width="100%" />
+
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6D28D9,100:0891B2&height=90&section=footer" alt="Footer" width="100%" />
 
