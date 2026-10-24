@@ -35,7 +35,6 @@
         <li>🎓 <b>Degree:</b> B.Sc. in CSE (Major in Data Science)</li>
         <li>🔬 <b>Research Focus:</b> Leakage-Aware ML Pipelines, Ensemble Learning, Computer Vision & Lightweight AI</li>
         <li>💻 <b>Engineering:</b> Python ML Ecosystems, Deep Learning & Full-Stack Web Applications</li>
-        <li>🏆 <b>Honors:</b> 100% Merit Scholarship (2025–2026) & Dean's Scholarship (2024–2025)</li>
       </ul>
       <p>
         <i>"Turning methodological gaps into trustworthy, reproducible machine learning systems."</i>
