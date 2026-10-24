@@ -155,6 +155,4 @@ I'm especially drawn to collaborative work where **experimentation, clear docume
 </div>
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E1B4B,50:6D28D9,100:0891B2&height=90&section=footer" alt="Footer" width="100%" />
 
-</div>
