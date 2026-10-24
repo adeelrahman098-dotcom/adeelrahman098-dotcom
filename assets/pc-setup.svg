@@ -1,0 +1,234 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 650" width="100%" height="100%">
+  <defs>
+    <!-- Glow Filters -->
+    <filter id="purple-glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="12" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Gradients -->
+    <linearGradient id="sunset-sky" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1E1B4B" />
+      <stop offset="45%" stop-color="#7C3AED" />
+      <stop offset="75%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#FDE047" />
+    </linearGradient>
+
+    <linearGradient id="desk-top" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#161B22" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+
+    <linearGradient id="screen-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090D16" />
+      <stop offset="50%" stop-color="#111C24" />
+      <stop offset="100%" stop-color="#06202B" />
+    </linearGradient>
+
+    <linearGradient id="rgb-purple" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C084FC" />
+      <stop offset="50%" stop-color="#9333EA" />
+      <stop offset="100%" stop-color="#4F46E5" />
+    </linearGradient>
+
+    <linearGradient id="lightbar-glow" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#38BDF8" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .pulse { animation: pulse-anim 3s infinite alternate ease-in-out; }
+    .fan-spin { animation: spin-anim 2s infinite linear; transform-origin: 545px 305px; }
+    .cursor { animation: blink 1s infinite; }
+    @keyframes pulse-anim {
+      0% { opacity: 0.7; }
+      100% { opacity: 1; }
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+  </style>
+
+  <!-- Ambient Background Glow -->
+  <circle cx="420" cy="340" r="240" fill="#7C3AED" opacity="0.12" filter="url(#purple-glow)" />
+  <circle cx="300" cy="220" r="160" fill="#F59E0B" opacity="0.08" filter="url(#purple-glow)" />
+
+  <!-- ================= 3D ISOMETRIC WINDOW (SUNSET VIEW) ================= -->
+  <g id="window">
+    <!-- Outer Window Frame -->
+    <polygon points="140,260 380,140 380,360 140,480" fill="#090D16" stroke="#21262D" stroke-width="4" />
+    <!-- Sunset Sky Glass -->
+    <polygon points="152,266 368,158 368,352 152,460" fill="url(#sunset-sky)" />
+    
+    <!-- Distant City Silhouette (Isometric Horizon) -->
+    <polygon points="152,410 180,396 180,375 205,362 205,383 230,370 230,340 265,322 265,353 295,338 295,315 330,297 330,320 368,301 368,352 152,460" fill="#0D1117" opacity="0.85" />
+    
+    <!-- Palm Tree & Foliage Silhouette (Left Pane) -->
+    <path d="M165,455 Q180,390 195,355 Q170,365 155,355 Q175,345 195,350 Q180,335 170,325 Q190,330 202,345 Q215,325 235,325 Q215,340 205,350 Q225,350 240,365 Q215,360 202,358 Q190,400 180,448 Z" fill="#090D16" />
+
+    <!-- Window Mullions (Crossbars) -->
+    <polygon points="256,210 264,206 264,408 256,412" fill="#161B22" />
+    <polygon points="148,362 372,250 372,260 148,372" fill="#161B22" />
+    <!-- Window Handle -->
+    <rect x="258" y="305" width="4" height="18" rx="2" fill="#484F58" />
+    <!-- Window Sill -->
+    <polygon points="130,480 390,350 405,358 145,488" fill="#161B22" stroke="#30363D" stroke-width="1" />
+  </g>
+
+  <!-- ================= 3D ISOMETRIC DESK ================= -->
+  <g id="desk">
+    <!-- Desk Top Surface -->
+    <polygon points="80,450 460,260 740,400 360,590" fill="url(#desk-top)" stroke="#30363D" stroke-width="2" />
+    <!-- Desk Left Thick Edge -->
+    <polygon points="80,450 360,590 360,610 80,470" fill="#090D16" />
+    <!-- Desk Right Thick Edge -->
+    <polygon points="360,590 740,400 740,420 360,610" fill="#05070A" />
+    <!-- Extended Desk Mat -->
+    <polygon points="170,475 435,342 615,432 350,565" fill="#090C10" stroke="#21262D" stroke-width="1.5" />
+  </g>
+
+  <!-- ================= MONITOR & LIGHTBAR ================= -->
+  <g id="monitor">
+    <!-- Monitor Stand Base (V-Shape with Gold Accents) -->
+    <polygon points="315,435 355,415 365,425 275,465 265,460" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <polygon points="355,415 425,425 420,433 355,423" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <!-- Gold Stand Tips -->
+    <polygon points="275,465 265,460 285,450 295,455" fill="#D97706" />
+    <polygon points="425,425 420,433 400,430 405,422" fill="#D97706" />
+    <!-- Stand Neck -->
+    <polygon points="335,350 355,340 355,422 335,432" fill="#21262D" />
+
+    <!-- Monitor Back Casing -->
+    <polygon points="196,312 456,182 462,185 462,335 202,465 196,462" fill="#0D1117" stroke="#30363D" stroke-width="1.5" />
+    <!-- Monitor Screen -->
+    <polygon points="202,315 462,185 462,335 202,465" fill="url(#screen-grad)" stroke="#161B22" stroke-width="3" />
+
+    <!-- Screen Content: Forest Silhouette + HUD/Menu Overlay -->
+    <!-- Atmospheric Forest Background -->
+    <polygon points="280,420 310,310 340,400" fill="#0A191E" opacity="0.7" />
+    <polygon points="330,400 365,270 400,370" fill="#071216" opacity="0.8" />
+    <polygon points="385,375 420,250 455,340" fill="#0A191E" opacity="0.7" />
+    
+    <!-- Left Side Menu / Code HUD (Matching photo's left menu) -->
+    <g opacity="0.9">
+      <line x1="220" y1="335" x2="265" y2="312" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round" />
+      <line x1="220" y1="350" x2="255" y2="332" stroke="#38BDF8" stroke-width="2.5" stroke-linecap="round" />
+      <line x1="220" y1="362" x2="250" y2="347" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" />
+      <line x1="220" y1="374" x2="260" y2="354" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" />
+      <line x1="220" y1="386" x2="245" y2="373" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" />
+      <line x1="220" y1="398" x2="258" y2="379" stroke="#C084FC" stroke-width="2" stroke-linecap="round" />
+      <line x1="220" y1="410" x2="248" y2="396" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" />
+      <line x1="220" y1="422" x2="252" y2="406" stroke="#38BDF8" stroke-width="2" stroke-linecap="round" class="cursor" />
+    </g>
+
+    <!-- Bottom Right Status Indicator -->
+    <line x1="425" y1="335" x2="448" y2="323" stroke="#E2E8F0" stroke-width="2.5" stroke-linecap="round" />
+
+    <!-- Monitor Lightbar & Webcam -->
+    <polygon points="235,292 435,192 440,196 240,296" fill="#21262D" stroke="#484F58" stroke-width="1" />
+    <polygon points="240,296 440,196 455,260 225,375" fill="url(#lightbar-glow)" style="mix-blend-mode: screen;" />
+    <!-- Center Webcam -->
+    <circle cx="338" cy="242" r="8" fill="#0D1117" stroke="#30363D" stroke-width="2" />
+    <circle cx="338" cy="242" r="3" fill="#38BDF8" />
+  </g>
+
+  <!-- ================= DESK ACCESSORIES (SPEAKER, PLANT, PUCK) ================= -->
+  <g id="accessories">
+    <!-- Cylindrical Speaker -->
+    <ellipse cx="475" cy="395" rx="18" ry="10" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <path d="M463,360 L463,390 A12,6 0 0,0 487,390 L487,360 Z" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+    <ellipse cx="475" cy="360" rx="12" ry="7" fill="#1F242C" stroke="#38BDF8" stroke-width="0.8" />
+
+    <!-- Mini Succulent Plant -->
+    <polygon points="498,405 514,405 511,420 501,420" fill="#21262D" />
+    <circle cx="506" cy="402" r="6" fill="#10B981" />
+    <circle cx="502" cy="404" r="5" fill="#059669" />
+    <circle cx="510" cy="404" r="5" fill="#34D399" />
+
+    <!-- Wireless Control Dial / Puck -->
+    <ellipse cx="418" cy="426" rx="10" ry="6" fill="#21262D" />
+    <ellipse cx="418" cy="423" rx="10" ry="6" fill="#0D1117" stroke="#30363D" stroke-width="1" />
+  </g>
+
+  <!-- ================= 3D GAMING / RESEARCH PC TOWER (PURPLE RGB) ================= -->
+  <g id="pc-tower">
+    <!-- PC Shadow / Ambient Desk Reflection -->
+    <polygon points="500,380 610,325 710,375 600,430" fill="#9333EA" opacity="0.22" filter="url(#purple-glow)" />
+
+    <!-- Inside PC Case Background -->
+    <polygon points="520,245 630,300 630,430 520,375" fill="#090612" />
+
+    <!-- Rear Exhaust Purple RGB Fan -->
+    <g class="pulse" filter="url(#soft-glow)">
+      <ellipse cx="548" cy="295" rx="16" ry="24" transform="rotate(-12 548 295)" fill="url(#rgb-purple)" opacity="0.85" />
+      <ellipse cx="548" cy="295" rx="6" ry="9" transform="rotate(-12 548 295)" fill="#F3E8FF" />
+    </g>
+
+    <!-- Motherboard & CPU Cooler -->
+    <polygon points="568,280 615,303 615,365 568,342" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <ellipse cx="590" cy="318" rx="12" ry="16" fill="#0D1117" stroke="#A855F7" stroke-width="2.5" filter="url(#soft-glow)" />
+    <!-- RAM Sticks (RGB) -->
+    <line x1="608" y1="308" x2="608" y2="330" stroke="#C084FC" stroke-width="3" stroke-linecap="round" filter="url(#soft-glow)" />
+    <line x1="613" y1="310" x2="613" y2="332" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" filter="url(#soft-glow)" />
+
+    <!-- GPU (Graphics Card with RGB Strip & Glowing Power Cables) -->
+    <polygon points="535,335 620,378 620,396 535,353" fill="#1F242C" stroke="#30363D" stroke-width="1" />
+    <line x1="545" y1="348" x2="610" y2="381" stroke="#D8B4FE" stroke-width="3.5" stroke-linecap="round" filter="url(#soft-glow)" />
+    <!-- Glowing Strimer GPU Cables -->
+    <path d="M575,368 Q565,395 585,408" fill="none" stroke="#C084FC" stroke-width="5" stroke-linecap="round" filter="url(#soft-glow)" class="pulse" />
+    <path d="M581,371 Q571,398 591,411" fill="none" stroke="#A855F7" stroke-width="3" stroke-linecap="round" />
+
+    <!-- PC Top Panel -->
+    <polygon points="515,235 585,200 705,260 635,295" fill="#161B22" stroke="#30363D" stroke-width="1.5" />
+
+    <!-- PC Tempered Glass Side Panel -->
+    <polygon points="515,235 635,295 635,445 515,385" fill="#A855F7" fill-opacity="0.07" stroke="#30363D" stroke-width="2" />
+    <!-- Glass Reflection Highlight -->
+    <polygon points="525,245 555,260 535,380 520,372" fill="#FFFFFF" opacity="0.04" />
+
+    <!-- PC Front Mesh Panel (Right Isometric Face) -->
+    <polygon points="635,295 705,260 705,410 635,445" fill="#0D1117" stroke="#21262D" stroke-width="2" />
+
+    <!-- Front Panel Diamond RGB Mesh Glow (Matching Photo's Right PC Front) -->
+    <g class="pulse" filter="url(#soft-glow)">
+      <!-- Upper & Lower RGB Mesh Triangles/Grid -->
+      <polygon points="645,305 695,280 695,400 645,425" fill="url(#rgb-purple)" opacity="0.35" />
+      <!-- Geometric Mesh Cutouts -->
+      <path d="M645,315 L695,290 M645,330 L695,305 M645,345 L695,320 M645,360 L695,335 M645,375 L695,350 M645,390 L695,365 M645,405 L695,380 M645,420 L695,395" stroke="#0D1117" stroke-width="3" />
+      <path d="M655,300 L655,420 M670,292 L670,412 M685,285 L685,405" stroke="#0D1117" stroke-width="3" />
+      <!-- Bright RGB Core Highlights -->
+      <polygon points="650,390 690,370 690,400 650,420" fill="#E879F9" opacity="0.55" />
+    </g>
+  </g>
+
+  <!-- ================= KEYBOARD, CONTROLLER & MOUSE ================= -->
+  <g id="peripherals">
+    <!-- Mechanical Keyboard (Full-Size with Warm Backlight) -->
+    <polygon points="220,495 375,418 405,442 250,519" fill="#161B22" stroke="#30363D" stroke-width="1.5" />
+    <!-- Warm Amber Keycap Backlight Glow -->
+    <polygon points="226,494 373,421 399,441 252,514" fill="#F59E0B" opacity="0.25" filter="url(#soft-glow)" />
+    <!-- Key Rows -->
+    <path d="M232,492 L370,423 M238,498 L376,429 M244,504 L382,435 M250,510 L388,441" stroke="#0D1117" stroke-width="3.5" stroke-dasharray="6,3" />
+
+    <!-- Gamepad / Controller -->
+    <g transform="translate(415, 455)">
+      <ellipse cx="20" cy="18" rx="18" ry="11" transform="rotate(-25 20 18)" fill="#0D1117" stroke="#30363D" stroke-width="1.5" />
+      <ellipse cx="10" cy="24" rx="7" ry="12" transform="rotate(15 10 24)" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <ellipse cx="30" cy="15" rx="7" ry="12" transform="rotate(-45 30 15)" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="15" cy="16" r="2.5" fill="#30363D" />
+      <circle cx="26" cy="12" r="2" fill="#38BDF8" />
+    </g>
+
+    <!-- Wireless Gaming Mouse -->
+    <g transform="translate(485, 430)">
+      <ellipse cx="18" cy="14" rx="14" ry="9" transform="rotate(-28 18 14)" fill="#161B22" stroke="#30363D" stroke-width="1.5" />
+      <line x1="10" y1="10" x2="18" y2="14" stroke="#A855F7" stroke-width="2" stroke-linecap="round" />
+    </g>
+  </g>
+</svg>
