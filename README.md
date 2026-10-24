@@ -106,13 +106,20 @@
 
 <br />
 
-<!-- ───────────────────────── COLLABORATION & FOOTER ───────────────────────── -->
+<br />
 
-## 🤝 Open for Collaboration
+<!-- ───────────────────────────── COLLABORATION ───────────────────────────── -->
 
-I actively collaborate on **reproducible ML research**, **leakage-aware benchmarking studies**, **computer vision datasets**, and **open-source software engineering**.
+## 🤝 Collaboration
 
-<div align="center">
+I'm open to collaborating on:
+
+- 🤖 Applied AI and Machine Learning projects
+- 🌍 Data Science projects addressing real-world problems
+- 🔬 Research-oriented projects with reproducible experiments
+- 💡 Open-source software that helps me grow as a developer and researcher
+
+I'm especially drawn to collaborative work where **experimentation, clear documentation, and continuous improvement** matter.
 
 <br />
 
