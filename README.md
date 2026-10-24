@@ -49,38 +49,16 @@
 
 <br />
 
-
-
-<!-- ───────────────────────────── FOCUS ───────────────────────────── -->
-
-## 🎯 Current Focus
-
-I'm building a stronger foundation in software development and research.
-
-- 🧠 Studying **Machine Learning** and exploring **Deep Learning**
-- 🌐 Developing **web development** skills for practical applications
-- 🧪 Understanding **reliable experimental design** and **leakage-free ML evaluation**
-- 📄 Reading research papers and exploring potential **thesis topics**
-
-<br />
-
 <!-- ───────────────────────────── RESEARCH ───────────────────────────── -->
 
-## 🔬 Research Interests
+## 🔬 Research & Engineering Focus
 
-My work centers on developing and evaluating AI systems using reliable experimental methods and practical applications.
-
-| Area | Description |
+| Domain | Core Methodology & Objective |
 | :--- | :--- |
-| **🛡️ Leakage-Free Machine Learning** | Identifying data leakage risks and designing evaluation pipelines that give trustworthy performance estimates. |
-| **🌍 Applied Artificial Intelligence** | Exploring machine learning approaches for real-world problems. |
-| **⚡ Lightweight AI** | Investigating efficient AI approaches suited to resource-constrained environments. |
-| **🧬 Deep Learning** | Exploring deep learning concepts, architectures, and applications. |
-| **📚 Research Methodology** | Studying papers, analyzing existing methods, and identifying research gaps. |
-
-> I'm interested in understanding how existing approaches work, identifying methodological limitations, and learning how to turn research gaps into reproducible experiments.
-
-<!-- Add verified publications, preprints, or research projects here when available. -->
+| **🛡️ Leakage-Free ML Evaluation** | Designing strict cross-validation, preprocessing, and feature engineering pipelines that prevent data leakage and yield reliable generalization estimates. |
+| **🧠 Deep Learning & Vision** | Investigating convolutional and attention-based architectures for pattern recognition, gesture classification, and visual representation learning. |
+| **⚡ Model Optimization & Ensembles** | Benchmarking gradient boosting, stacking ensembles, and evolutionary hyperparameter tuning for tabular and real-world datasets. |
+| **🌐 Applied & Edge AI** | Building lightweight, low-latency AI models and full-stack software systems tailored for resource-constrained environments. |
 
 <br />
 
